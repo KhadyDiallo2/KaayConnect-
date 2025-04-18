@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KaayConnect - The Next Generation of Innovators</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <!-- Header -->
+  <header class="bg-white shadow p-4 flex justify-between items-center">
+    <div class="flex items-center space-x-3">
+      <img src="/mnt/data/ChatGPT Image 18 avr. 2025 à 16_05_27.png" alt="KaayConnect Logo" class="w-14 h-14 object-contain">
+      <div>
+        <h1 class="text-2xl font-bold text-indigo-800">KaayConnect</h1>
+        <p class="text-sm text-gray-600">The Next Generation of Innovators</p>
+      </div>
+    </div>
+    <nav class="space-x-4">
+      <a href="#about" class="text-gray-700 hover:text-indigo-600">À propos</a>
+      <a href="#features" class="text-gray-700 hover:text-indigo-600">Fonctionnalités</a>
+      <a href="#mentors" class="text-gray-700 hover:text-indigo-600">Mentors & Investisseurs</a>
+      <a href="#join" class="text-gray-700 hover:text-indigo-600">Rejoindre</a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="text-center py-16 bg-indigo-100">
+    <h2 class="text-4xl font-bold text-indigo-800">The Next Generation of Innovators</h2>
+    <p class="mt-4 text-lg text-indigo-700">Une plateforme pour connecter, inspirer et accompagner les jeunes porteurs de projets du Sénégal, d'Afrique et de la Diaspora.</p>
+    <a href="#join" class="mt-6 inline-block px-6 py-3 bg-indigo-600 text-white rounded-full hover:bg-indigo-700">Rejoindre la communauté</a>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-16 px-6 max-w-4xl mx-auto">
+    <h3 class="text-2xl font-bold text-indigo-700 mb-4">Notre mission</h3>
+    <p class="text-gray-700">KaayConnect est une plateforme collaborative qui vise à connecter les jeunes porteurs de projets du Sénégal, d’Afrique et de la Diaspora à des mentors, professionnels et investisseurs. Son objectif est de créer un écosystème d'entraide qui favorise l’innovation locale, l’entrepreneuriat à impact positif et le transfert de compétences entre générations. Grâce à un accompagnement personnalisé et à l’organisation d’événements physiques et digitaux, KaayConnect permet à chaque idée de trouver sa voie et à chaque talent de s’exprimer pleinement.</p>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="bg-white py-16 px-6">
+    <div class="max-w-5xl mx-auto">
+      <h3 class="text-2xl font-bold text-indigo-700 mb-8 text-center">Fonctionnalités principales</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-indigo-50 p-6 rounded-xl shadow">
+          <h4 class="font-semibold text-lg mb-2">Matchmaking Mentors</h4>
+          <p class="text-gray-600">Rencontre automatique entre jeunes et mentors en fonction des besoins et des expertises.</p>
+        </div>
+        <div class="bg-indigo-50 p-6 rounded-xl shadow">
+          <h4 class="font-semibold text-lg mb-2">Espace Projets</h4>
+          <p class="text-gray-600">Crée et partage ton projet, reçois des feedbacks, accède à des outils de business plan.</p>
+        </div>
+        <div class="bg-indigo-50 p-6 rounded-xl shadow">
+          <h4 class="font-semibold text-lg mb-2">Événements & Webinaires</h4>
+          <p class="text-gray-600">Participe à des événements exclusifs pour apprendre, réseauter et pitcher ton idée.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mentors & Investors Section -->
+  <section id="mentors" class="py-16 px-6 bg-gray-100">
+    <div class="max-w-5xl mx-auto text-center">
+      <h3 class="text-2xl font-bold text-indigo-700 mb-4">Espace Mentors & Investisseurs</h3>
+      <p class="text-gray-700 mb-6">Vous êtes un professionnel accompli ou un investisseur engagé ? Rejoignez KaayConnect pour soutenir l'émergence de la nouvelle génération de leaders africains. Partagez votre expérience, accompagnez des projets à impact, et découvrez des talents exceptionnels.</p>
+      <a href="#" class="px-6 py-3 bg-indigo-600 text-white rounded-full hover:bg-indigo-700">S'inscrire en tant que mentor ou investisseur</a>
+    </div>
+  </section>
+
+  <!-- Join Section -->
+  <section id="join" class="py-16 px-6 bg-indigo-100 text-center">
+    <h3 class="text-2xl font-bold text-indigo-800 mb-4">Prêt·e à te lancer ?</h3>
+    <p class="text-gray-700 mb-6">Rejoins une communauté de jeunes créatifs, de mentors bienveillants et de partenaires engagés.</p>
+    <a href="#" class="px-6 py-3 bg-indigo-600 text-white rounded-full hover:bg-indigo-700">Créer mon profil</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-white text-center p-6 mt-8 text-gray-500">
+    © 2025 KaayConnect. Tous droits réservés.
+  </footer>
+
+</body>
+</html>
